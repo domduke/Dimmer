@@ -1,0 +1,91 @@
+c:\users\jack\documents\visual studio 2015\Projects\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\ScreenDimmerWPF.exe.config
+c:\users\jack\documents\visual studio 2015\Projects\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\ScreenDimmerWPF.exe
+c:\users\jack\documents\visual studio 2015\Projects\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\ScreenDimmerWPF.pdb
+c:\users\jack\documents\visual studio 2015\Projects\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.csprojResolveAssemblyReference.cache
+c:\users\jack\documents\visual studio 2015\Projects\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\MainWindow.g.cs
+c:\users\jack\documents\visual studio 2015\Projects\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\App.g.cs
+c:\users\jack\documents\visual studio 2015\Projects\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF_MarkupCompile.cache
+c:\users\jack\documents\visual studio 2015\Projects\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF_MarkupCompile.lref
+c:\users\jack\documents\visual studio 2015\Projects\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\MainWindow.baml
+c:\users\jack\documents\visual studio 2015\Projects\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.g.resources
+c:\users\jack\documents\visual studio 2015\Projects\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.Properties.Resources.resources
+c:\users\jack\documents\visual studio 2015\Projects\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.csproj.GenerateResource.Cache
+c:\users\jack\documents\visual studio 2015\Projects\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.exe
+c:\users\jack\documents\visual studio 2015\Projects\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.pdb
+C:\Users\Jack\documents\visual studio 2015\Projects\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\Config.g.cs
+C:\Users\Jack\documents\visual studio 2015\Projects\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\Config.baml
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\ScreenDimmerWPF.exe.config
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.exe
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.pdb
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\ScreenDimmerWPF.exe
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\ScreenDimmerWPF.pdb
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\Config.g.cs
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\App.g.cs
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF_MarkupCompile.cache
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF_MarkupCompile.lref
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\Config.baml
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\MainWindow.baml
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.g.resources
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.Properties.Resources.resources
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.csproj.GenerateResource.Cache
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\MahApps.Metro.xml
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\ScreenDimmerWPF.exe.config
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.exe
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.pdb
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\ScreenDimmerWPF.exe
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\ScreenDimmerWPF.pdb
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\MahApps.Metro.dll
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\System.Windows.Interactivity.dll
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\MahApps.Metro.pdb
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\MahApps.Metro.xml
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.csprojResolveAssemblyReference.cache
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\Config.g.cs
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\MainWindow.g.cs
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\App.g.cs
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF_MarkupCompile.cache
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF_MarkupCompile.lref
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\Config.baml
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\MainWindow.baml
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.g.resources
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.Properties.Resources.resources
+D:\Downloads\ScreenDimmerWPF (11)\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.csproj.GenerateResource.Cache
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\bin\Debug\ScreenDimmerWPF.exe.config
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.exe
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.pdb
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\bin\Debug\ScreenDimmerWPF.exe
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\bin\Debug\ScreenDimmerWPF.pdb
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\bin\Debug\MahApps.Metro.dll
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\bin\Debug\MahApps.Metro.xml
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.csprojResolveAssemblyReference.cache
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\obj\Debug\Config.g.cs
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\obj\Debug\App.g.cs
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF_MarkupCompile.cache
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF_MarkupCompile.lref
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\obj\Debug\Config.baml
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\obj\Debug\MainWindow.baml
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.g.resources
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.Properties.Resources.resources
+C:\Users\Dom\Google Drive\Pics\Desktop\ScreenDimmerWPFLatest\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.csproj.GenerateResource.Cache
+D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\bin\Debug\ScreenDimmerWPF.exe.config
+D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.exe
+D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.pdb
+D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.csprojResolveAssemblyReference.cache
+D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\Config.g.cs
+D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\MainWindow.g.cs
+D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\App.g.cs
+D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF_MarkupCompile.cache
+D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF_MarkupCompile.lref
+D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\Config.baml
+D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\MainWindow.baml
+D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.g.resources
+D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.Properties.Resources.resources
+D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.csproj.GenerateResource.Cache
+D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\ScreenDimmerWPF.exe.manifest
