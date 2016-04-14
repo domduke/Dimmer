@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\obj\Debug\
+D:\Latest Desktop\ScreenDimmerWPF\Dimmer\ScreenDimmerWPF\obj\Debug\
 ScreenDimmerWPF
 none
 false
 DEBUG;TRACE
-D:\Latest Desktop\ScreenDimmerWPF\ScreenDimmerWPF\App.xaml
+D:\Latest Desktop\ScreenDimmerWPF\Dimmer\ScreenDimmerWPF\App.xaml
 2-2135922792
 
 131251512759
-17466735244
+17713158654
 Config.xaml;MainWindow.xaml;
 
-False
+True
 
